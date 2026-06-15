@@ -66,6 +66,5 @@ Analysis included:
 - Layoffs peaked in 2023
 ## Tools Used
 
-- SQL
 - MySQL
 - GitHub
